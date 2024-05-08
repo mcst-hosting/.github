@@ -1,7 +1,6 @@
 ```
 container@mcst.io:~# ./start.sh
 Loading libraries, please wait...
-[04:25:18 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [04:25:20 INFO]: Loaded 1175 recipes
 [04:25:20 INFO]: Loaded 1276 advancements
 [04:25:20 INFO]: Starting minecraft server version 1.20.6
